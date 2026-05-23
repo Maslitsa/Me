@@ -7,3 +7,5 @@ I am young, open to learning and adapting, curious about new things, and serious
 Sometimes I can forget about things when I am fully focused on the project that I am doing, because I always want to deliver things as fast as possible, and I do not like to sit and mash one problem again and again. Other times I am overfocused on my goals, and I can judge people around me by their ambitions in life if they are not worth living for, and I am not sure if it is bad or not, because I always try to surround myself with competitive, unusual, and sometimes even abnormal people, because I believe that only these people can deliver extraordinary ideas and outcomes, and I try to build lasting relationships with them for life.
 
 I hope this answers every question you can have about the culture fit and my ambitions, and you can find my general competence all over my profile. Thank you for reading this!
+
+![Profile Views](https://komarev.com/ghpvc/?username=Maslitsa&color=blue&style=flat-square) ![GitHub followers](https://img.shields.io/github/followers/Maslitsa?style=social) 
