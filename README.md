@@ -8,4 +8,4 @@ Sometimes I can forget about things when I am fully focused on the project that 
 
 I hope this answers every question you can have about the culture fit and my ambitions, and you can find my general competence all over my profile. Thank you for reading this!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Maslitsa&color=blue&style=flat-square) ![GitHub followers](https://img.shields.io/github/followers/Maslitsa?style=social) 
+![Profile Views](https://komarev.com/ghpvc/?username=Maslitsa&color=blue) ![GitHub stars](https://img.shields.io/github/stars/Maslitsa?style=social)
