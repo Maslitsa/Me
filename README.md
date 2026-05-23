@@ -1,4 +1,6 @@
-Hey, I am Miras. Not talking much I really love to create and build, and I hope to power the world with new, maybe not today, but definitely one day. For that, maybe I can need your help)
+<h1 align="center">👋 Hi there. This is Miras!</h1>
+
+Not talking much I really love to create and build, and I hope to power the world with new, maybe not today, but definitely one day. For that, maybe I can need your help)
 
 All of the experiences, projects, etc. you can find on my profile, but here I want to tell you who I am (or at least who I think I am), and you can see if I suit your initiatives.
 
